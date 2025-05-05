@@ -1,0 +1,4 @@
+# requirements.txt
+torch
+transformers
+scikit-learn 
